@@ -1,0 +1,8 @@
+{
+  "name": "Pak Godhra Community",
+  "description": "A community engagement app for Pak Godhra Community featuring AI-powered announcement creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
